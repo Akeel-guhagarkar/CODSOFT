@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Task1_Movie_Genre_Classification"
+		},
+		{
+			"path": "../Task2_Credit_Card_Fraud_Detection"
+		},
+		{
+			"path": "../venv"
+		}
+	]
+}
